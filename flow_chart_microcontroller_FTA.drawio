@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T17:45:18.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="vQqCvSYdtmTlH_fOCtui" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-06T17:48:31.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="rHQ04Sxt7Fgx5Et-OTGd" version="24.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4012" dy="4186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2101" dy="3077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -255,7 +255,7 @@
         <mxCell id="uxLn2Yr7BItVLRlvGIpT-60" value="Fault type?" style="rhombus;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2190" y="280" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uxLn2Yr7BItVLRlvGIpT-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uxLn2Yr7BItVLRlvGIpT-64" value="FET_1,2,3,4 (encoded) --&amp;gt; 0&lt;br&gt;Default: bypass" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2180" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uxLn2Yr7BItVLRlvGIpT-65" value="sbRIO (Central Controller)" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -304,7 +304,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uxLn2Yr7BItVLRlvGIpT-78" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1.004;exitY=0.83;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.212;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uxLn2Yr7BItVLRlvGIpT-75" target="uxLn2Yr7BItVLRlvGIpT-70">
+        <mxCell id="uxLn2Yr7BItVLRlvGIpT-78" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1.004;exitY=0.83;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.212;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uxLn2Yr7BItVLRlvGIpT-75" target="uxLn2Yr7BItVLRlvGIpT-70">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="-490" as="sourcePoint" />
             <mxPoint x="879.5500000000002" y="-530" as="targetPoint" />
@@ -313,7 +313,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uxLn2Yr7BItVLRlvGIpT-79" value="&lt;div&gt;Temperature of transistors&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="uxLn2Yr7BItVLRlvGIpT-78">
+        <mxCell id="uxLn2Yr7BItVLRlvGIpT-79" value="&lt;div&gt;Temperature of transistors&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" connectable="0" parent="uxLn2Yr7BItVLRlvGIpT-78">
           <mxGeometry x="-0.0506" y="1" relative="1" as="geometry">
             <mxPoint x="-204" as="offset" />
           </mxGeometry>
