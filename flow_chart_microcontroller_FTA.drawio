@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T16:19:53.416Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="CCMwnFszK0rTO67eP7GS" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-06T16:22:51.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="jZb5Dvk5wzpBaYnmWG9e" version="24.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="989" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         </mxCell>
         <mxCell id="uxLn2Yr7BItVLRlvGIpT-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7WwFtl0jQR6NTjPNibtS-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="400" as="targetPoint" />
+            <mxPoint x="660" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uxLn2Yr7BItVLRlvGIpT-1" value="reset" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uxLn2Yr7BItVLRlvGIpT-0">
@@ -63,6 +63,18 @@
             <mxPoint x="350" y="460" as="targetPoint" />
             <Array as="points">
               <mxPoint x="350" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uxLn2Yr7BItVLRlvGIpT-10" value="`CPLD_discharge` --&amp;gt; Low" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="460" width="166" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uxLn2Yr7BItVLRlvGIpT-12" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="uxLn2Yr7BItVLRlvGIpT-10">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="350" y="420" as="sourcePoint" />
+            <mxPoint x="490" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="553" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
