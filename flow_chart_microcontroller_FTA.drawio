@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T17:55:19.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="UrnSASVYDMxeqGaKZPh5" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-06T17:55:53.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="eha1unHsXrLFfkc8FvxL" version="24.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1807" dy="2906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -638,8 +638,10 @@
         <mxCell id="uxLn2Yr7BItVLRlvGIpT-143" value="Turn module(s) to bypass mode" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2650" y="630" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uxLn2Yr7BItVLRlvGIpT-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uxLn2Yr7BItVLRlvGIpT-150" target="uxLn2Yr7BItVLRlvGIpT-158">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="uxLn2Yr7BItVLRlvGIpT-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uxLn2Yr7BItVLRlvGIpT-150" target="uxLn2Yr7BItVLRlvGIpT-163">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3060" y="680" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="uxLn2Yr7BItVLRlvGIpT-160" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uxLn2Yr7BItVLRlvGIpT-159">
           <mxGeometry x="-0.0214" y="1" relative="1" as="geometry">
@@ -657,11 +659,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uxLn2Yr7BItVLRlvGIpT-158" value="Stuck at series" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3000" y="680" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="uxLn2Yr7BItVLRlvGIpT-161" value="Central_FLT --&amp;gt; H/L" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3140" y="680" width="120" height="30" as="geometry" />
+        <mxCell id="uxLn2Yr7BItVLRlvGIpT-163" value="&lt;div&gt;Single module safety:&lt;/div&gt;&lt;div&gt;Stuck at bypass?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2990" y="680" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
