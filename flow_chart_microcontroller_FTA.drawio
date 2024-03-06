@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T17:49:47.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="HuA3yZDl0ADNfo8bxZri" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-06T17:50:35.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="atrQY1rjz4xIh9SaHxnO" version="24.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1535" dy="2749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1846" dy="2929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -252,8 +252,14 @@
         <mxCell id="uxLn2Yr7BItVLRlvGIpT-44" value="&lt;div&gt;Short circuit through neighboring module&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1760" y="550" width="166" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="uxLn2Yr7BItVLRlvGIpT-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uxLn2Yr7BItVLRlvGIpT-60" target="uxLn2Yr7BItVLRlvGIpT-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uxLn2Yr7BItVLRlvGIpT-60" value="Fault type?" style="rhombus;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2190" y="280" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uxLn2Yr7BItVLRlvGIpT-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uxLn2Yr7BItVLRlvGIpT-64" target="uxLn2Yr7BItVLRlvGIpT-126">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uxLn2Yr7BItVLRlvGIpT-64" value="FET_1,2,3,4 (encoded) --&amp;gt; 0&lt;br&gt;Default: bypass" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2180" y="400" width="120" height="60" as="geometry" />
@@ -541,8 +547,40 @@
         <mxCell id="uxLn2Yr7BItVLRlvGIpT-126" value="Turn all modules to bypass mode" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2180" y="500" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uxLn2Yr7BItVLRlvGIpT-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uxLn2Yr7BItVLRlvGIpT-127">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2240" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2390" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uxLn2Yr7BItVLRlvGIpT-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="uxLn2Yr7BItVLRlvGIpT-127">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2240" y="380" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2390" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uxLn2Yr7BItVLRlvGIpT-127" value="Central_FLT --&amp;gt; Low" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2330" y="430" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uxLn2Yr7BItVLRlvGIpT-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uxLn2Yr7BItVLRlvGIpT-128">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2390" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2541" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uxLn2Yr7BItVLRlvGIpT-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="uxLn2Yr7BItVLRlvGIpT-128">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2390" y="380" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="2541" y="380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="uxLn2Yr7BItVLRlvGIpT-128" value="Pulse_on --&amp;gt; Low" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2481" y="430" width="120" height="30" as="geometry" />
