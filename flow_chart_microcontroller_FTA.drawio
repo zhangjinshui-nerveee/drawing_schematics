@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T18:14:59.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="gHgLGEy-AFqnxTy9nhxZ" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-06T18:15:21.021Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="KpI2Gn8WyKo8XWcVWv9K" version="24.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1510" dy="2729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2876" dy="3512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -784,6 +784,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="uxLn2Yr7BItVLRlvGIpT-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uxLn2Yr7BItVLRlvGIpT-203" target="uxLn2Yr7BItVLRlvGIpT-223">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uxLn2Yr7BItVLRlvGIpT-203" value="MCU_CPLD[8] --&amp;gt; Low" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3860" y="420" width="154" height="30" as="geometry" />
         </mxCell>
@@ -837,6 +840,15 @@
         </mxCell>
         <mxCell id="uxLn2Yr7BItVLRlvGIpT-218" value="Bypass and discharge" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="4411" y="530.63" width="154" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uxLn2Yr7BItVLRlvGIpT-226" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uxLn2Yr7BItVLRlvGIpT-223" target="uxLn2Yr7BItVLRlvGIpT-224">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uxLn2Yr7BItVLRlvGIpT-223" value="CPLD_FLT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3860" y="480" width="154" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uxLn2Yr7BItVLRlvGIpT-224" value="Bypass and discharge" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3860" y="535.63" width="154" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
