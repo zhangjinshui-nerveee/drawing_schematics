@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T17:48:31.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="rHQ04Sxt7Fgx5Et-OTGd" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-06T17:49:47.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="HuA3yZDl0ADNfo8bxZri" version="24.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2101" dy="3077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1535" dy="2749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -537,6 +537,15 @@
         </mxCell>
         <mxCell id="uxLn2Yr7BItVLRlvGIpT-124" value="Dumping Board" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-20" y="-180" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="uxLn2Yr7BItVLRlvGIpT-126" value="Turn all modules to bypass mode" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2180" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uxLn2Yr7BItVLRlvGIpT-127" value="Central_FLT --&amp;gt; Low" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2330" y="430" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uxLn2Yr7BItVLRlvGIpT-128" value="Pulse_on --&amp;gt; Low" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2481" y="430" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
