@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T16:44:48.933Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="iuYE8FYti_bW-bWUpEDo" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-06T16:45:10.837Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="0CyEATI2KKNrApU1fPPu" version="24.0.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1593" dy="3251" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -275,6 +275,12 @@
         </mxCell>
         <mxCell id="uxLn2Yr7BItVLRlvGIpT-75" value="Power modules (6 boards)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="-310" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="uxLn2Yr7BItVLRlvGIpT-76" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.924;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uxLn2Yr7BItVLRlvGIpT-69" target="uxLn2Yr7BItVLRlvGIpT-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="-340" as="sourcePoint" />
+            <mxPoint x="730" y="-390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
