@@ -1,6 +1,6 @@
-<mxfile modified="2024-03-23T15:07:53.856Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="-6DGV8lGBbmkhF86w_Nh" version="24.0.9" type="github">
+<mxfile modified="2024-03-23T15:08:34.085Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="tSK9OzICojjBaS71s8gb" version="24.0.9" type="github">
   <diagram id="C2fSY1v2SiZeoUbDoYyL" name="Page-1">
-    <mxGraphModel dx="1434" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1147" dy="634" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,19 +38,19 @@
           <mxGeometry x="420" y="61.111111111111114" width="80" height="48.88888888888889" as="geometry" />
         </mxCell>
         <mxCell id="amalOigmN-ex_Px7Ythu-23" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="100" y="380" width="500" height="140" as="geometry" />
+          <mxGeometry x="100" y="362" width="500" height="364" as="geometry" />
         </mxCell>
         <mxCell id="amalOigmN-ex_Px7Ythu-19" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;General rules&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="amalOigmN-ex_Px7Ythu-23">
-          <mxGeometry width="500" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="amalOigmN-ex_Px7Ythu-21" value="Paralleling current surge &amp;amp; differential-mode inductance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="amalOigmN-ex_Px7Ythu-23">
-          <mxGeometry x="240" y="10" width="260" height="40" as="geometry" />
+          <mxGeometry width="500" height="364" as="geometry" />
         </mxCell>
         <mxCell id="amalOigmN-ex_Px7Ythu-22" value="Layout: Minimizing strays" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="amalOigmN-ex_Px7Ythu-23">
           <mxGeometry y="60" width="500" height="40" as="geometry" />
         </mxCell>
         <mxCell id="amalOigmN-ex_Px7Ythu-24" value="Thermal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="amalOigmN-ex_Px7Ythu-23">
           <mxGeometry y="100" width="500" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="amalOigmN-ex_Px7Ythu-25" value="Paralleling current surge &amp;amp; differential-mode inductance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="311" width="260" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
