@@ -1,6 +1,6 @@
-<mxfile modified="2024-03-23T15:17:49.960Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="A5aNQmSWGiVbbHJaLqSe" version="24.0.9" type="github">
+<mxfile modified="2024-03-23T15:20:27.753Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="qqlylils1Yz_LueqB0bm" version="24.0.9" type="github">
   <diagram id="C2fSY1v2SiZeoUbDoYyL" name="Page-1">
-    <mxGraphModel dx="1687" dy="967" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1304" dy="747" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,6 +84,21 @@
         </mxCell>
         <mxCell id="amalOigmN-ex_Px7Ythu-31" value="Asymmetrical submodule voltage modulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="amalOigmN-ex_Px7Ythu-38">
           <mxGeometry x="360" y="47" width="140" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="amalOigmN-ex_Px7Ythu-45" value="&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; Applications&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="266" y="696" width="523" height="183" as="geometry" />
+        </mxCell>
+        <mxCell id="amalOigmN-ex_Px7Ythu-46" value="Grid appliances" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="286" y="730" width="120" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="amalOigmN-ex_Px7Ythu-47" value="EV drivetrain" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="412" y="782" width="120" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="amalOigmN-ex_Px7Ythu-48" value="x10 MVA biodemical stimulator" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="719" width="137" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="amalOigmN-ex_Px7Ythu-49" value="10 GVAHz biodemical stimulator" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="619.5" y="796" width="137" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
