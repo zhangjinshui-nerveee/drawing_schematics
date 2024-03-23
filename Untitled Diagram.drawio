@@ -1,6 +1,6 @@
-<mxfile modified="2024-03-23T15:12:40.394Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="fCojQmYpmkL8C0gY9HSM" version="24.0.9" type="github">
+<mxfile modified="2024-03-23T15:12:50.856Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="No_saAp02bv7MZfgMJwT" version="24.0.9" type="github">
   <diagram id="C2fSY1v2SiZeoUbDoYyL" name="Page-1">
-    <mxGraphModel dx="869" dy="498" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="715" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,10 +29,10 @@
           <mxGeometry x="100" y="462" width="500" height="78" as="geometry" />
         </mxCell>
         <mxCell id="amalOigmN-ex_Px7Ythu-4" value="Half-Bridge" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="226.66666666666669" width="120" height="73.33333333333334" as="geometry" />
+          <mxGeometry x="100" y="226.67" width="120" height="109.33" as="geometry" />
         </mxCell>
         <mxCell id="amalOigmN-ex_Px7Ythu-5" value="&lt;div&gt;Full-Bridge&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="226.66666666666669" width="120" height="73.33333333333334" as="geometry" />
+          <mxGeometry x="220" y="226.67" width="120" height="109.33" as="geometry" />
         </mxCell>
         <mxCell id="amalOigmN-ex_Px7Ythu-6" value="Switched-Capacitor" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;container=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="226.67000000000002" width="260" height="73.33" as="geometry" />
