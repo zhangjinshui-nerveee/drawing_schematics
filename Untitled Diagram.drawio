@@ -1,4 +1,4 @@
-<mxfile modified="2024-03-23T15:05:19.673Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="fHp2I-o4JVObP5GIUAhX" version="24.0.9" type="github">
+<mxfile modified="2024-03-23T15:05:39.185Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="0wpDreGI79RphsrSHHy6" version="24.0.9" type="github">
   <diagram id="C2fSY1v2SiZeoUbDoYyL" name="Page-1">
     <mxGraphModel dx="1434" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="amalOigmN-ex_Px7Ythu-11" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="100" y="210" width="500" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="amalOigmN-ex_Px7Ythu-2" value="&lt;b&gt;Topology&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="amalOigmN-ex_Px7Ythu-11">
+        <mxCell id="amalOigmN-ex_Px7Ythu-2" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;Topology&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="amalOigmN-ex_Px7Ythu-11">
           <mxGeometry width="500" height="30" as="geometry" />
         </mxCell>
         <mxCell id="amalOigmN-ex_Px7Ythu-4" value="Half-Bridge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="amalOigmN-ex_Px7Ythu-11">
@@ -37,8 +37,8 @@
         <mxCell id="amalOigmN-ex_Px7Ythu-9" value="&lt;div&gt;PPCMC&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="amalOigmN-ex_Px7Ythu-11">
           <mxGeometry x="420" y="50" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="amalOigmN-ex_Px7Ythu-19" value="&lt;div&gt;General rules&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="100" y="300" width="500" height="120" as="geometry" />
+        <mxCell id="amalOigmN-ex_Px7Ythu-19" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;General rules&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="500" height="140" as="geometry" />
         </mxCell>
         <mxCell id="amalOigmN-ex_Px7Ythu-21" value="Paralleling current surge &amp;amp; differential-mode inductance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="340" y="300" width="260" height="60" as="geometry" />
