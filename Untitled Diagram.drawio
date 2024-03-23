@@ -1,4 +1,4 @@
-<mxfile modified="2024-03-23T15:05:56.104Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="00zqoWE_-yppblkG2cNc" version="24.0.9" type="github">
+<mxfile modified="2024-03-23T15:06:20.544Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="g97UM8vt6yvMBR8SgC23" version="24.0.9" type="github">
   <diagram id="C2fSY1v2SiZeoUbDoYyL" name="Page-1">
     <mxGraphModel dx="1434" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="amalOigmN-ex_Px7Ythu-21" value="Paralleling current surge &amp;amp; differential-mode inductance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="340" y="300" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="amalOigmN-ex_Px7Ythu-22" value="Minimizing strays" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="360" width="500" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
