@@ -1,4 +1,4 @@
-<mxfile modified="2024-03-23T14:40:08.277Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="1TZqvjAS4696Arn6ikzm" version="24.0.9" type="github">
+<mxfile modified="2024-03-23T14:40:40.801Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="dMoqQSXwYr2kYhRNNaQZ" version="24.0.9" type="github">
   <diagram id="C2fSY1v2SiZeoUbDoYyL" name="Page-1">
     <mxGraphModel dx="1687" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -47,6 +47,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470.00000000000006" y="300" as="sourcePoint" />
             <mxPoint x="470" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="amalOigmN-ex_Px7Ythu-17" value="Paralleling current surge &amp;amp; differential-mode inductance" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="amalOigmN-ex_Px7Ythu-16">
+          <mxGeometry x="-0.2694" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
