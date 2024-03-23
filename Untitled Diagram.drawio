@@ -1,4 +1,4 @@
-<mxfile modified="2024-03-23T14:35:18.557Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="jv4vCb_zjLfvCnAu0-kU" version="24.0.9" type="github">
+<mxfile modified="2024-03-23T14:35:26.070Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="deysQDstdim054RmbyTz" version="24.0.9" type="github">
   <diagram id="C2fSY1v2SiZeoUbDoYyL" name="Page-1">
     <mxGraphModel dx="1434" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="amalOigmN-ex_Px7Ythu-6" value="Switched-Capacitor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="410" width="260" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="amalOigmN-ex_Px7Ythu-7" value="&lt;div&gt;Flying capacitor&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="amalOigmN-ex_Px7Ythu-7" value="FC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="430" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="amalOigmN-ex_Px7Ythu-8" value="&lt;div&gt;CH2B&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
