@@ -1,4 +1,4 @@
-<mxfile modified="2024-03-23T15:10:02.470Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="XEPzWkf_0raiGAgaIj4S" version="24.0.9" type="github">
+<mxfile modified="2024-03-23T15:10:20.749Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="I6skbPDEZrceSNBgWOtW" version="24.0.9" type="github">
   <diagram id="C2fSY1v2SiZeoUbDoYyL" name="Page-1">
     <mxGraphModel dx="1103" dy="632" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="amalOigmN-ex_Px7Ythu-9" value="&lt;div&gt;PPCMC&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="251.11111111111111" width="80" height="48.88888888888889" as="geometry" />
         </mxCell>
-        <mxCell id="amalOigmN-ex_Px7Ythu-26" value="Priority of thermal capacitance vs. resistance in intermittent load profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="amalOigmN-ex_Px7Ythu-26" value="Priority of thermal capacitance vs. resistance in intermittent load profile: GaN demonstration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="471" width="212" height="60" as="geometry" />
         </mxCell>
       </root>
