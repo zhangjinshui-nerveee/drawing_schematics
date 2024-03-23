@@ -1,4 +1,4 @@
-<mxfile modified="2024-03-23T15:07:34.783Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="gTeQQBPxF_f1Ips7dq-v" version="24.0.9" type="github">
+<mxfile modified="2024-03-23T15:07:53.856Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="-6DGV8lGBbmkhF86w_Nh" version="24.0.9" type="github">
   <diagram id="C2fSY1v2SiZeoUbDoYyL" name="Page-1">
     <mxGraphModel dx="1434" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -48,6 +48,9 @@
         </mxCell>
         <mxCell id="amalOigmN-ex_Px7Ythu-22" value="Layout: Minimizing strays" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="amalOigmN-ex_Px7Ythu-23">
           <mxGeometry y="60" width="500" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="amalOigmN-ex_Px7Ythu-24" value="Thermal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="amalOigmN-ex_Px7Ythu-23">
+          <mxGeometry y="100" width="500" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
